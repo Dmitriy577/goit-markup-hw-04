@@ -280,10 +280,6 @@ ul{
     background-color: #2196f3;
     border-radius: 50%;
 }
-
-
-
-
 .claint{
     padding: 94px 0 94px 0;
 }
@@ -316,13 +312,14 @@ ul{
 }
 .claint-logo-icon:hover{
     fill: #2196F3;
-    border: 1px solid #2196F3;
 }
 .logo-icon-ho:hover{
     fill: #2196F3;
+    border: 1px solid #2196F3;
 }
 .logo-icon-ho{
     fill: #AFB1B8;
+    padding: 16px 32px;
 }
  /*footer*/
 
